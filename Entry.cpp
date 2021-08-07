@@ -62,5 +62,6 @@ int main(int argc, char* argv)
 
     printf("\n[>] Total tests: %d, Detection rate: %d/%d\n", total_tests, failed, total_tests);
     system("pause");
-	return 0;
+    
+    return 0;
 }

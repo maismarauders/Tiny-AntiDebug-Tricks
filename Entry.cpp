@@ -40,7 +40,7 @@ bool DebugStringTrick()
 
 int main(int argc, char* argv)
 {
-	printf("[>] Starting tricks...\n\n");
+    printf("[>] Starting tricks...\n\n");
 
     int total_tests = 3;
     int failed = 0;
